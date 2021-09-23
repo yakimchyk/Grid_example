@@ -94,6 +94,7 @@ ul{
 }
 .sidebar__link {
    font-size: 26px;
+   text-decoration: none;
 }
 .content {
    grid-column: 3 / 4;
